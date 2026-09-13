@@ -1,0 +1,17 @@
+Q1 Lean verification
+Copyright 2026 Caleb Barnett
+
+The project verification files are licensed under the Apache License,
+Version 2.0. See LICENSE.
+
+The motivating Question 1 is due to Nazmul Alam, Joseph Gondek, Mehrdad
+Kalantar and Randy Pham, Growth conditions for topological freeness,
+arXiv:2602.15009v2 (19 June 2026), Section 3.
+
+This verification uses Lean 4 and the Lean Mathematical Library (mathlib),
+with credit to their respective authors and communities. Selected
+substantive formalization credits and all pinned dependency licenses are
+listed in THIRD_PARTY.md. Mathematical references appear in REFERENCES.md.
+
+Dependencies are fetched separately and retain their upstream copyrights
+and licenses. Attribution does not imply endorsement of this artifact.

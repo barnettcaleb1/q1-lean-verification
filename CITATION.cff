@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "To cite this verification artifact, use this metadata. Cite the original mathematical sources separately; see REFERENCES.md."
+title: "Q1 Lean verification"
+type: software
+authors:
+  - family-names: Barnett
+    given-names: Caleb
+version: 0.1.0
+license: Apache-2.0
